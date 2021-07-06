@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Yomogi&display=swap');
+.main{
+    background-color:#ffcced;
+    font-family:'Yomogi',cursive;
+    margin: 50px;
+    padding: 50px;
+}
+.title {
+    text-align: center;
+    color:black;
+    text-shadow: 2px 2px 10px #d255aa;
+}
+.hb {
+    color:black;
+    text-align: end;
+}
+.header h2 {
+    color:#570a67;
+}
+.contenedor {
+    display:grid;   
+    grid-template-columns: 300px 300px 300px 300px;
+    justify-content: center; 
+    gap: 20px;
+    text-align: justify;
+    color:#570a67;
+    border: 5px solid purple;
+}
+.contenedor div{
+border: 5px dotted #e84eae;
+padding: 20px 20px 20px 20px;
+}
+h3 {
+    font-style: italic;
+    text-align: center;
+    color: #e84eae;
+}
+h4 {
+    text-align: center;
+    color: #570a67;
+    font-size: x-large;
+}
+img {
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+    
